@@ -1,0 +1,15 @@
+.buttonsave {
+    background-color: #F5167E;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    padding-inline-start: 50px;
+    padding-inline-end: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.icback {
+    width: 20px;
+}

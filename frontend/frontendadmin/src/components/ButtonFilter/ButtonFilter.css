@@ -1,0 +1,17 @@
+.buttonoffcanvas {
+    background-color: white;
+    border: none;
+    color: #333335;
+    box-shadow: 1px 2px 3px gray;
+    font-weight: bold;
+}
+
+.buttonoffcanvas:hover {
+    background-color: #F5167E;
+    color: white;
+}
+
+.bgbuttonoffcanvas {
+    background-color: #F5167E;
+    color: white;
+}

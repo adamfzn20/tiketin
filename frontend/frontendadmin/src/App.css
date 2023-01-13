@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.dashboard {
+  background-color: #FFF6FA;
+}
+
+.leftcoldas {
+  flex: 0.8;
+  display: block;
+}
+
+.rightcoldas {
+  margin-left: 0px;
+  flex: 1;
+  margin-top: 0px;
+}
+
+img {
+  width: 100%;
+}

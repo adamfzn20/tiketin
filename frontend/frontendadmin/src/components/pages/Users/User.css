@@ -1,0 +1,43 @@
+.right {
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.userlistbackground {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 2px 9px gray;
+}
+
+.userlist {
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.headlist {
+    background-color: #F2F2F2;
+}
+
+.right h4,
+p {
+    margin-bottom: 10px;
+}
+
+.ic {
+    width: 24px;
+}
+
+.ictd {
+    width: 19px;
+    margin-right: 20px;
+}
+
+th {
+    color: #333335;
+}
+
+td button {
+    background-color: white;
+    border: none;
+}

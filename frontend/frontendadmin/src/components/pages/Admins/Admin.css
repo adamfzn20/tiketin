@@ -1,0 +1,46 @@
+.right {
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.adminlistbackground {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 2px 9px gray;
+}
+
+.adminlist {
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.headlist {
+    background-color: #F2F2F2;
+}
+
+.right h4,
+p {
+    margin-bottom: 10px;
+}
+
+.ic {
+    width: 24px;
+}
+
+.ictd {
+    width: 19px;
+    margin-right: 20px;
+}
+
+.buttoncreateadmin {
+    background-color: #F5167E;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    padding-inline-start: 20px;
+    padding-inline-end: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
